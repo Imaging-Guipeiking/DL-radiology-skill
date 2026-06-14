@@ -1,4 +1,4 @@
-# radiology-ai-manuscript-writer
+# DL-radiology-skill
 
 > 深度学习 x 医学影像交叉方向的论文写作 Skill  
 > A Codex Skill for deep learning x medical imaging manuscript writing.
