@@ -5,8 +5,6 @@
 
 `radiology-ai-manuscript-writer` 是一个面向 **深度学习-医学影像交叉论文** 的 Codex Skill。它不是泛论文 prompt 库，也不是“一句话生成 SCI 论文”的工具，而是一个围绕真实医学影像 AI 项目的写作工作流：把你的模型结果、临床表格、影像图、统计输出、图表和已有手稿，组织成更接近 Radiology: Artificial Intelligence 风格的完整论文表达。
 
-![Douyin cover](assets/douyin-cover-3x4.png)
-
 ## 先说清楚：它需要完整材料
 
 这个 Skill 的定位不是凭空写论文。  
